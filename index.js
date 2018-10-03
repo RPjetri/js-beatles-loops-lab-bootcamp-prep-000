@@ -23,5 +23,5 @@ function iLoveTheBeatles(num) {
     imagine.push("I love the Beatles!");
     num++;
   }
-  while 
+  while (num < 15)
 }
