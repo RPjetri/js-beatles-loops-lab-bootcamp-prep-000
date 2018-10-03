@@ -20,7 +20,8 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(num) {
   var imagine = []
   do{
-    imagine.push("I love the Beatles!")
-    
+    imagine.push("I love the Beatles!");
+    num++;
   }
+  while 
 }
